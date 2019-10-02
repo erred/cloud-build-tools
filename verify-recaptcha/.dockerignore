@@ -1,8 +1,0 @@
-.dockerignore
-.git
-.gitignore
-
-cloudbuild.yaml
-Dockerfile
-LICENSE
-README.md
